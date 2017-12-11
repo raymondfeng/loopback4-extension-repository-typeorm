@@ -1,2 +1,16 @@
-# loopback4-extension-repository-typeorm
-LoopBack 4 Repository Implementation with TypeORM
+# @loopback/repository-typeorm
+
+Repository integration with TypeORM
+
+## Tests
+
+run 'npm test' from the root folder.
+
+## Contributors
+
+See
+[all contributors](https://github.com/strongloop/loopback-next/graphs/contributors).
+
+## License
+
+MIT
